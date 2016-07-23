@@ -1,0 +1,2 @@
+# sid-info
+About myself
